@@ -16,7 +16,7 @@ Perfect for learning how APIs work, practicing backend development, or just havi
 
 ## 🛠️ Tech Stack
 
-- **Python 3.13**
+- **Python**
 - **FastAPI** – Web framework
 - **Uvicorn** – ASGI server for FastAPI
 
